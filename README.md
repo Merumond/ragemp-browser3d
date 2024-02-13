@@ -1,6 +1,9 @@
 # ragemp-browser3d
 This resource offers a simplified system for creating and interacting with 3D browsers
 
+## Preview
+![preview](https://github.com/Merumond/ragemp-browser3d/assets/98052301/e4e93946-773f-465a-a641-6fd9d666b263)
+
 ## Installation
 - Place the "extensions" folder in the "client_packages" folder
 - Add the code from index.js to your index.js
